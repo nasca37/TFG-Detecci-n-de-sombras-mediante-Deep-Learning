@@ -6,4 +6,4 @@ En caso de querer hacer pruebas con pesos entrenados solo en capas superficiales
 
 Mencionar que el rendimiento de estos pesos puede variar entre sistemas y por tanto en caso de querer obtener resultados estables recomiendo hacer uso del notebook de entrenamiento con el sistema que vaya a hacer uso del modelo. Estos pesos se pueden usar como base para acelerar el proceso.
 
-En caso de querer comprobar el funcionamiento del modelo con imagenes exteriores se puede hacer uso del notebook de los algoritmos de mejora el cual al proporcionarle una imagen de 1024 x 1024 mostrará los pasos que realiza el modelo para detectar y mejorar los resultados.
+En caso de querer comprobar el funcionamiento del modelo con imágenes exteriores se puede hacer uso del notebook de los algoritmos de mejora el cual al proporcionarle una imagen de 1024 x 1024 mostrará los pasos que realiza el modelo para detectar y mejorar los resultados.
